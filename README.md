@@ -1,5 +1,3 @@
-Below content and resources were used to understand the use case and domain of the assingmemnt. Hence, I've built a comprehensive README to better help understand when I come back to this assignment at a later time.
-
 # DNA/RNA Sequence Parser
 
 The Python script in this repo parses FASTA files to determine sequence types (DNA/RNA), identify open reading frames (ORFs), and compute sequence statistics.
